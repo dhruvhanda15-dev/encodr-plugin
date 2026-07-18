@@ -1,0 +1,11 @@
+{
+  "name": "encodr",
+  "owner": { "name": "Handa Innovation Labs", "email": "dhruvhanda15@gmail.com" },
+  "plugins": [
+    {
+      "name": "encodr",
+      "source": "./",
+      "description": "Encodr card generator skill + Encodr MCP server."
+    }
+  ]
+}
