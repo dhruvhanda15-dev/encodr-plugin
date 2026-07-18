@@ -1,7 +1,7 @@
 {
   "name": "encodr",
-  "description": "Generate high-quality Encodr study decks with AI - researched, mixed-type, QA-checked. Bundles the Encodr MCP server.",
-  "version": "1.0.0",
+  "description": "Generate and review Encodr study decks with AI - researched, mixed-type, QA-checked cards plus data-driven study plans. Bundles the Encodr MCP server.",
+  "version": "1.1.0",
   "author": { "name": "Handa Innovation Labs" },
   "homepage": "https://encodr.app"
 }
